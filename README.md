@@ -1,105 +1,106 @@
-# Muhammad Abdullah - Full Stack Developer | Associate Software Engineer
+<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="350" width="1080" frameborder="0" scrolling="no" >
 
-Welcome to my GitHub profile! I am Muhammad Abdullah, a passionate Full Stack Developer and Associate Software Engineer with hands-on experience in developing scalable web and mobile applications. I specialize in the MERN stack, API integration, and AI-driven solutions, with a strong focus on building high-quality software.
+<h1 align="center">    
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Abdullah!;" />
+</h1>                     
+<h3 align="center">Full Stack Developer | Associate Software Engineer</h3>   
 
-## Live Portfolio
+<p align="left"> <img width="130" src="https://komarev.com/ghpvc/?username=Abdullahfalak007&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullahfalak007" /> </p>
 
-Feel free to explore my live portfolio: [Muhammad Abdullah Portfolio](https://abdullahfalak007.vercel.app/)
+<img align="right" margin-top="5px" alt="Coder GIF" width=350 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 
-## Skills
+- 🔭 I'm currently working as **Associate Software Engineer at StrategistsHub**
 
-### Frontend Development
-- **HTML5** (Experienced)
-- **CSS3** (Experienced)
-- **JavaScript (ES6+)** (Experienced)
-- **React.js** (Experienced)
-- **Next.js** (Experienced)
-- **TypeScript** (Experienced)
-- **Bootstrap** (Intermediate)
-- **Tailwind CSS** (Intermediate)
+- 🌱 I'm currently learning **Advanced MERN Stack & AI-driven solutions**
 
-### Backend Development
-- **Node.js** (Experienced)
-- **Express.js** (Experienced)
-- **MongoDB** (Experienced)
-- **Firebase** (Experienced)
-- **Python** (Intermediate)
-- **Fast API** (Intermediate)
-- **REST API** (Experienced)
-- **Git** (Experienced)
+- 👯 I'm looking to collaborate on **Scalable Web & Mobile Applications**
 
-## Work Experience
+- 👨‍💻 All of my projects are available at <a href="https://abdullahfalak007.vercel.app/" >Portfolio</a>
 
-### Associate Software Engineer at StrategistsHub (Jul 2025 - Present)
-- Building scalable web apps with PostgreSQL, Next.js, Node.js, Express.js, and MongoDB.
+- 💬 Ask me about **React.js, Next.js, Node.js, MongoDB, PostgreSQL**
 
-### Junior Developer at Cybergen, Faisalabad (Jun 2024 - Oct 2024)
-- Developed AI-integrated software for a US-based company, focusing on scalable front-end and back-end solutions.
+- 📫 How to reach me **abdullahfalak007@gmail.com**
 
-### Full Stack Developer Trainee at TechloSet Solutions, Faisalabad (Feb 2024 - Oct 2024)
-- Completed a 4-month hands-on program and built 4 full-stack apps using React, React Native, Next.js, Node.js, MongoDB, and Firebase.
+- 📄 Know about my experiences <a href="https://abdullahfalak007.vercel.app/">Resume</a>
 
-### Full Stack Web Developer at Fiverr | Upwork (Nov 2024 - Present)
-- Building responsive web apps with React, Next.js, and Tailwind CSS. Integrating REST APIs and authentication using Node.js, MongoDB, and FastAPI.
+- ⚡ Fun fact **I build AI-integrated solutions and love creating scalable applications**
 
-### Intern, Software Engineer at AmazeWorks Pvt. Ltd. (May 2022 - Aug 2022)
-- Contributed to ERP development by customizing front-end components and integrating features with Python and XML.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdullahfalak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahfalak007" height="30" width="40" /></a>
+<a href="mailto:abdullahfalak007@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="abdullahfalak007@gmail.com" height="30" width="40" /></a>
+</p>
 
-## Projects
+<div align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
+</div>
 
-Here are some of the projects I've worked on:
+## 🚀 Featured Projects
 
-### [TeChat - Chatting (Android App)](https://github.com/Abdullahfalak007/Techloset-TeChat-App.git)
-- **Description**: A chat application built using React Native for both Android and iOS.
-- **Live Demo**: [APK File](https://drive.google.com/file/d/1PB4nJtZRwq1VkrwGOdwO3qIe_5RqIUOs/view?usp=sharing)
+### [Dine With Foody](https://dinewithfoody.vercel.app/)
+Multi-role restaurant management system with Super Admin, Restaurant Owner, Employee, and User roles. Built with Next.js and MongoDB.
+
+### [TeChat - Chatting Android App](https://drive.google.com/file/d/1PB4nJtZRwq1VkrwGOdwO3qIe_5RqIUOs/view?usp=sharing)
+Real-time chat application built with React Native and Firebase backend.
 
 ### [HR Management System](https://hrmanagementbyabdullah.vercel.app/)
-- **Description**: A full-stack HR management system built with Node.js, Express.js, MongoDB, and React.
-- **Live Demo**: [Live Demo](https://hrmanagementbyabdullah.vercel.app/)
-
-### [Delícias à Mesa - Recipe Finder](https://recipe-app-drab-seven.vercel.app/)
-- **Description**: A recipe finder app using a public API to search and display recipes.
-- **Live Demo**: [Live Demo](https://recipe-app-drab-seven.vercel.app/)
+Comprehensive HR platform built with Next.js, FastAPI, MongoDB & Prisma.
 
 ### [Bright Scholars School](https://abdullahfalak007.github.io/Bright-Scholars-School/)
-- **Description**: A simple landing page for a fictional school.
-- **Live Demo**: [Live Demo](https://abdullahfalak007.github.io/Bright-Scholars-School/)
+Responsive learning management system (LMS) for educational institutions.
 
-### [DealFinity - Ecommerce Store](https://clever-alpaca-4f51e7.netlify.app/)
-- **Description**: A basic e-commerce store built with React and integrated with Stripe for payments.
-- **Live Demo**: [Live Demo](https://clever-alpaca-4f51e7.netlify.app/)
+### [Dealfinity - E-Commerce Platform](https://clever-alpaca-4f51e7.netlify.app/)
+Full-featured e-commerce application using React, Redux, and Tailwind CSS.
 
-### [Gmail Automation](https://github.com/Abdullahfalak007/Email-extraction-script-from-the-body-of-an-email-message-using-python)
-- **Description**: A Python script for automating Gmail extraction tasks.
+<div align="center">
+<h1> 🔥 My Stats 🔥 </h1>
+  <div style="display: flex; justify-content: space-between;">
+  <p><img width="440px" src="https://github-readme-stats.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark" alt="GitHub Stats" /></p>
+  <p><img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark" alt="Top Languages" /></p>
+</div>
 
-### [Lead Tracker (Extension)](https://github.com/Abdullahfalak007/Lead-Tracker-App.git)
-- **Description**: A Chrome extension that tracks leads for sales professionals.
-- **GitHub Repo**: [GitHub Repo](https://github.com/Abdullahfalak007/Lead-Tracker-App.git)
+<div style="text-align="center">
+    <h1>🔥 Github Streak 🔥</h1>
+    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahfalak007&theme=onedark" />
+</div>
 
-## Certifications
+## 💼 Professional Experience
 
-- **Mobile App Development** (E-rozgar Training Program) - Android & iOS development with hands‑on UI design and backend integration. (Feb 2024)
-- **React Native (NAVTTC)** - National Vocational and Technical Training Commission. (Jan 2024 - Feb 2024)
-- **IELTS** - Overall score of 7.0, CEFR Level C1. (Nov 2023 - Present)
-- **Techloset Bootcamp Completion** - Issued by CEO Naveed Sarwar.
+- **Associate Software Engineer** at StrategistsHub (July 2025 - Present)
+- **Junior Developer** at Cybergen (June 2024 - Sep 2025)
+- **Full Stack Developer Trainee** at TechloSet Solutions (Feb 2024 - May 2024)
+- **Full Stack Web Developer** - Freelance on Fiverr | Upwork (Nov 2024 - Present)
+- **Software Engineer Intern** at AmazeWorks Private Limited (May 2022 - Aug 2022)
 
-## Social Links
-- [LinkedIn](https://www.linkedin.com/in/abdullahfalak007)
-- [GitHub](https://github.com/Abdullahfalak007)
-- [YouTube](https://www.youtube.com/c/FalakTechrary)
-- [Facebook](https://www.facebook.com/abdullahfalak007)
-- [Instagram](https://www.instagram.com/Abdullahfalak007/)
+## 🎓 Education & Certifications
 
-## Technologies I Use
-- Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, TypeScript, Tailwind CSS, Bootstrap.
-- Backend: Node.js, Express.js, MongoDB, Firebase, Python, FastAPI, REST APIs.
-- Database: MongoDB, PostgreSQL.
-- Other: Git, Firebase, Vercel, Netlify, Heroku.
-
-## Contributions
-
-I am always open to collaborating on new and exciting projects. Feel free to explore my repositories and contribute to any of my ongoing projects.
+- **Bachelor of Computer Science** - Riphah International University, Faisalabad (2019-2023) - CGPA: 3.60
+- **Mobile App Development** - E-rozgar Training Program
+- **Web and Mobile App Development** - Saylani Mass IT Training
+- **React Native** - NAVTTC
+- **IELTS** - Band 7.0 (C1 Level)
 
 ---
 
-Feel free to contact me via my social links or email: [abdullahfalak007@gmail.com](mailto:abdullahfalak007@gmail.com)
+<div align="center">
+  <h3>🌟 "Passionate about building scalable solutions that make a difference" 🌟</h3>
+  <p>Open to collaborations and new opportunities!</p>
+</div>
