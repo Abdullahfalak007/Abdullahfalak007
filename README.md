@@ -15,7 +15,7 @@
 
 - 👯 I'm looking to collaborate on **Scalable Web & Mobile Applications**
 
-- 👨‍💻 All of my projects are available at <a href="https://abdullahfalak007.vercel.app/" >Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://abdullahfalak007.vercel.app/">Portfolio</a>
 
 - 💬 Ask me about **React.js, Next.js, Node.js, MongoDB, PostgreSQL**
 
@@ -23,13 +23,15 @@
 
 - 📄 Know about my experiences <a href="https://abdullahfalak007.vercel.app/">Resume</a>
 
-- ⚡ Fun fact **I build AI-integrated solutions and love creating scalable applications**
+- ⚡ Fun fact **I build AI-integrated SaaS platforms and love creating scalable enterprise solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullahfalak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahfalak007" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/abdullahfalak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079540761162" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/abdullahfalak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahfalak007" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdullahfalak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahfalak007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/Abdullahfalak007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abdullahfalak007" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/FalakTechrary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="FalakTechrary" height="30" width="40" /></a>
+<a href="https://github.com/Abdullahfalak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Abdullahfalak007" height="30" width="40" /></a>
 </p>
 
 <div align="center"> 
@@ -41,6 +43,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -48,22 +51,29 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 </div>
 
 ## 🚀 Featured Projects
 
-### [Dine With Foody](https://dinewithfoody.vercel.app/)
+### [Creator AI – Enterprise AI Product Ideation Platform](https://creator-ai-test.onrender.com)
+Enterprise B2B SaaS for F&B industry with multi-model AI image generation, background job processing, and multi-tenant architecture. Built with Next.js, Node.js, PostgreSQL, BullMQ, and Redis.
+
+### [FatherForm – AI-Powered Fatherhood & Family Connection Platform](https://fatherform.app/)
+AI-first platform for family connection with conversational AI coaching, relationship health scoring, and timeline-based guidance.
+
+### [Dine With Foody – Multi-Role Restaurant Management System](https://dinewithfoody.vercel.app/)
 Multi-role restaurant management system with Super Admin, Restaurant Owner, Employee, and User roles. Built with Next.js and MongoDB.
 
 ### [TeChat - Chatting Android App](https://drive.google.com/file/d/1PB4nJtZRwq1VkrwGOdwO3qIe_5RqIUOs/view?usp=sharing)
-Real-time chat application built with React Native and Firebase backend.
+Real-time chat application built with React Native and Firebase backend. Download APK to test.
 
 ### [HR Management System](https://hrmanagementbyabdullah.vercel.app/)
-Comprehensive HR platform built with Next.js, FastAPI, MongoDB & Prisma.
+Comprehensive HR platform built with Next.js, FastAPI, MongoDB & Prisma for enterprise management.
 
 ### [Bright Scholars School](https://abdullahfalak007.github.io/Bright-Scholars-School/)
 Responsive learning management system (LMS) for educational institutions.
@@ -73,35 +83,74 @@ Full-featured e-commerce application using React, Redux, and Tailwind CSS.
 
 <div align="center">
 <h1> 🔥 My Stats 🔥 </h1>
-  <div style="display: flex; justify-content: space-between;">
-  <p><img width="440px" src="https://github-readme-stats.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark" alt="GitHub Stats" /></p>
-  <p><img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark" alt="Top Languages" /></p>
-</div>
+<p><img width="440px" src="https://github-readme-stats.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark" alt="GitHub Stats" /></p>
+<p><img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark" alt="Top Languages" /></p>
 
-<div style="text-align="center">
-    <h1>🔥 Github Streak 🔥</h1>
-    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahfalak007&theme=onedark" />
+<h1>🔥 Github Streak 🔥</h1>
+<p>
+  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahfalak007&theme=onedark" alt="GitHub Streak" />
+</p>
 </div>
 
 ## 💼 Professional Experience
 
-- **Associate Software Engineer** at StrategistsHub (July 2025 - Present)
-- **Junior Developer** at Cybergen (June 2024 - Sep 2025)
-- **Full Stack Developer Trainee** at TechloSet Solutions (Feb 2024 - May 2024)
-- **Full Stack Web Developer** - Freelance on Fiverr | Upwork (Nov 2024 - Present)
-- **Software Engineer Intern** at AmazeWorks Private Limited (May 2022 - Aug 2022)
+**Associate Software Engineer** at StrategistsHub (July 2025 - Present)  
+Building enterprise-grade, multi-tenant SaaS platforms with AI-powered ideation and image generation. Implementing background job processing, scalable frontend architecture, and collaborating with design & AI teams using Next.js, React, Node.js, PostgreSQL, BullMQ, and Redis.
 
-## 🎓 Education & Certifications
+**Full Stack Web Developer** - Freelance on Fiverr | Upwork (Nov 2024 - Present)  
+Delivering responsive web solutions with React, Next.js, and Tailwind CSS for global clients. Specializing in REST APIs integration, authentication modules, and FastAPI backends to ensure reliability and scalability across diverse projects.
 
-- **Bachelor of Computer Science** - Riphah International University, Faisalabad (2019-2023) - CGPA: 3.60
-- **Mobile App Development** - E-rozgar Training Program
-- **Web and Mobile App Development** - Saylani Mass IT Training
-- **React Native** - NAVTTC
-- **IELTS** - Band 7.0 (C1 Level)
+**Junior Developer** at Cybergen (June 2024 - Sep 2024)  
+Built AI-integrated web platforms with RESTful APIs and data-driven dashboards for a US-based company, focusing on innovative solutions and user-centric design.
+
+**Full Stack Developer Trainee** at TechloSet Solutions (Feb 2024 - May 2024)  
+Completed a 4-month intensive coding bootcamp and built multiple full-stack applications using React, React Native, Next.js, Node.js, MongoDB, and Firebase. Implemented JWT authentication, Google login, and webhooks for real-time features in chat and collaboration applications.
+
+**Software Engineer Intern** at AmazeWorks Private Limited (May 2022 - Aug 2022)  
+Contributed to ERP system enhancement through front-end customization and Python/XML module integration, gaining hands-on experience in enterprise software development.
+
+## 🎓 Education
+
+**Bachelor of Computer Science** from Riphah International University, Faisalabad (2019-2023) with CGPA: 3.60
+
+## 📜 Certifications
+
+**Mobile App Development** issued by E-Rozgar Program, Punjab IT Board (Jan 2024 – Apr 2024)  
+Android & iOS development with hands-on UI design and backend integration.
+
+**Web and Mobile App Development** issued by Saylani Mass IT Training (Dec 2023 – Dec 2024)  
+Web and mobile development course using the MERN stack to build responsive applications.
+
+**React Native** issued by NAVTTC, Government of Pakistan (Feb 2024 – Mar 2024)  
+Recognized certification by Pakistan's National Vocational and Technical Training Commission.
+
+**IELTS Certification** from British Council — Band 7.0 (C1 Level) (Nov 2023 – Present)  
+Scored 7.0 bands, corresponding to a CEFR Level of C1, demonstrating proficiency in English language.
+
+**Techloset Bootcamp Completion** issued by TechloSet Solutions (Feb 2024 – May 2024)  
+Bootcamp completion certificate recognized by CEO of Techloset Solutions, Naveed Sarwar.
+
+## 🛠️ Technical Skills
+
+**Frontend:** React.js, Next.js 14, TypeScript, Redux Toolkit, Tailwind CSS, Framer Motion, shadcn/ui
+
+**Backend:** Node.js, FastAPI, Express.js, REST APIs, GraphQL
+
+**Databases:** PostgreSQL, MongoDB, Prisma, Drizzle ORM, Supabase, Firebase
+
+**Infrastructure:** Redis, BullMQ, Docker, Vercel, AWS S3, Git/GitHub
+
+**AI/ML:** OpenAI GPT-4o, Google Gemini, Ideogram API, Replicate, HuggingFace
+
+## 🌍 Languages
+
+English - Full Professional Proficiency  
+Urdu - Native or Bilingual Proficiency
 
 ---
 
 <div align="center">
-  <h3>🌟 "Passionate about building scalable solutions that make a difference" 🌟</h3>
+  <h3>🌟 "Building scalable enterprise solutions with cutting-edge technologies" 🌟</h3>
+  <p>Passionate about leveraging AI/ML, real-time systems, and modern architectures to solve complex business problems.</p>
   <p>Open to collaborations and new opportunities!</p>
 </div>
