@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I build AI-integrated SaaS platforms and love creating scalable enterprise solutions**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="display: flex; gap: 10px;">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullahfalak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahfalak007" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abdullahfalak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahfalak007" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
 </p>
 
 <div align="center"> 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="display: flex; gap: 10px;">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
