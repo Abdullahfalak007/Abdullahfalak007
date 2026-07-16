@@ -11,13 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://abdullahfalak007.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/abdullahfalak007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abdullahfalak007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://abdullahfalak007.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdullahfalak007" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdullahfalak007@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Abdullahfalak007&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
-
-<img align="right" width="330" alt="Coder cat" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 
 - 🔭 Currently an **Associate Software Engineer**, building multi-tenant AI SaaS platforms
 - 🤖 **Anthropic-certified** in Claude API, Model Context Protocol, Agent Skills, and Claude Code
@@ -30,18 +28,18 @@
 
 ### 🚀 Featured Projects
 
-- **[Navero](https://app.navero.me/):** Multi-service AI hiring operating system spanning role design, AI screening, interviews, billing, and per-job LLM cost tracking. `Next.js 15/16 · React 19 · TypeScript`
-- **[Fatherform](https://fatherform.app/):** Full-stack AI companion that helps fathers track relationship health, journal, and get personalized parenting guidance. `React 18 · Vite · TypeScript`
-- **[Creator AI](https://creator-ai-test.onrender.com):** Enterprise AI platform for brand-aware product ideation, research, and creative asset generation for F&B teams. `Next.js 14 · React 18 · TypeScript`
-- **[Feel](https://abdullahfalak007.vercel.app/projects/feel):** Mobile-first emotional wellness app with a memory-aware AI companion, mood intelligence, and personalized support flows. `Expo · React Native · TypeScript`
-- **[Dine With Foody](https://dinewithfoody.vercel.app/):** Multi-tenant restaurant SaaS with role-specific dashboards for admins, owners, staff, and customers. `Next.js 14 · React 18 · TypeScript`
-- **[Reply Intelligence](https://abdullahfalak007.vercel.app/projects/reply-intelligence):** Automated pipeline that classifies cold-email replies with Claude, tracks follow-ups, and sources leads — operable by non-technical staff. `Python 3.12 · Anthropic Claude Haiku 4.5 · Anthropic Claude Sonnet 4.6`
+- <a href="https://app.navero.me/" target="_blank" rel="noopener noreferrer"><b>Navero</b></a>: Multi-service AI hiring operating system spanning role design, AI screening, interviews, billing, and per-job LLM cost tracking. `Next.js 15/16 · React 19 · TypeScript`
+- <a href="https://fatherform.app/" target="_blank" rel="noopener noreferrer"><b>Fatherform</b></a>: Full-stack AI companion that helps fathers track relationship health, journal, and get personalized parenting guidance. `React 18 · Vite · TypeScript`
+- <a href="https://creator-ai-test.onrender.com" target="_blank" rel="noopener noreferrer"><b>Creator AI</b></a>: Enterprise AI platform for brand-aware product ideation, research, and creative asset generation for F&B teams. `Next.js 14 · React 18 · TypeScript`
+- <a href="https://abdullahfalak007.vercel.app/projects/feel" target="_blank" rel="noopener noreferrer"><b>Feel</b></a>: Mobile-first emotional wellness app with a memory-aware AI companion, mood intelligence, and personalized support flows. `Expo · React Native · TypeScript`
+- <a href="https://dinewithfoody.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Dine With Foody</b></a>: Multi-tenant restaurant SaaS with role-specific dashboards for admins, owners, staff, and customers. `Next.js 14 · React 18 · TypeScript`
+- <a href="https://abdullahfalak007.vercel.app/projects/reply-intelligence" target="_blank" rel="noopener noreferrer"><b>Reply Intelligence</b></a>: Automated pipeline that classifies cold-email replies with Claude, tracks follow-ups, and sources leads — operable by non-technical staff. `Python 3.12 · Anthropic Claude Haiku 4.5 · Anthropic Claude Sonnet 4.6`
 
-<sub>↑ auto-synced from my <a href="https://abdullahfalak007.vercel.app/projects">portfolio</a>.</sub>
+<sub>↑ auto-synced from my <a href="https://abdullahfalak007.vercel.app/projects" target="_blank" rel="noopener noreferrer">portfolio</a>.</sub>
 
 ### 📊 GitHub
 
 <div align="center">
-  <img width="440" src="https://github-readme-stats.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark" alt="Top Languages" />
+  <img width="440" src="https://github-readme-stats-ecru-five-76.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img width="440" src="https://github-readme-stats-ecru-five-76.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark" alt="Top Languages" />
 </div>
