@@ -17,6 +17,8 @@
   <img src="https://komarev.com/ghpvc/?username=Abdullahfalak007&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
+<img align="right" width="330" alt="Coder cat" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
+
 - 🔭 Currently an **Associate Software Engineer**, building multi-tenant AI SaaS platforms
 - 🤖 **Anthropic-certified** in Claude API, Model Context Protocol, Agent Skills, and Claude Code
 - 🧠 Ask me about **RAG, AI agents, LLM orchestration, Next.js, and full-stack architecture**
@@ -39,7 +41,7 @@
 
 ### 📊 GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark&hide_border=true" alt="top langs" />
-</p>
+<div align="center">
+  <img width="440" src="https://github-readme-stats.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark" alt="Top Languages" />
+</div>
