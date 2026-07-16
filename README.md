@@ -39,7 +39,8 @@
 
 ### 📊 GitHub
 
-<div align="center">
-  <img width="440" src="https://github-readme-stats-ecru-five-76.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img width="440" src="https://github-readme-stats-ecru-five-76.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="155" alt="Muhammad Abdullah's GitHub stats" src="https://github-readme-stats-ecru-five-76.vercel.app/api?username=Abdullahfalak007&show_icons=true&theme=onedark&hide_border=true&count_private=true&cache_bust=2" />
+  &nbsp;
+  <img height="155" alt="Top languages" src="https://github-readme-stats-ecru-five-76.vercel.app/api/top-langs/?username=Abdullahfalak007&layout=compact&theme=onedark&hide_border=true&langs_count=8&cache_bust=2" />
+</p>
