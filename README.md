@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abdullahfalak007&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-- 🔭 Currently an **Associate Software Engineer**, building multi-tenant AI SaaS platforms
+- 🔭 Currently an **AI Engineer**, building AI agents, RAG systems, and Claude/OpenAI integrations
 - 🤖 **Anthropic-certified** in Claude API, Model Context Protocol, Agent Skills, and Claude Code
 - 🧠 Ask me about **RAG, AI agents, LLM orchestration, Next.js, and full-stack architecture**
 - 📫 Reach me at **abdullahfalak007@gmail.com**
