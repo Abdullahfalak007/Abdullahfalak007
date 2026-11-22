@@ -2,11 +2,11 @@
      The Featured Projects list is rebuilt from src/constants/projects-data.ts on every push. -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=34&center=true&vCenter=true&width=520&height=64&duration=4000&lines=Hi%2C+I'm+Muhammad+Abdullah;Full-Stack+%26+AI+Developer" alt="Muhammad Abdullah" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=34&center=true&vCenter=true&width=520&height=64&duration=4000&lines=Hi%2C+I'm+Muhammad+Abdullah;AI+Engineer;Agentic+Workflows;Full+Stack+Developer" alt="Muhammad Abdullah" />
 </h1>
 
 <p align="center">
-  I build full-stack web apps and AI products: RAG systems, AI agents, and SaaS platforms with
+  I build AI agents, RAG systems, and agentic workflows, plus the full-stack web apps and SaaS platforms behind them, with
   <b>Next.js</b>, <b>Node</b>, and <b>Python</b>.
 </p>
 
